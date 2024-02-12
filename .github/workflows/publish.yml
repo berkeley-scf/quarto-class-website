@@ -34,4 +34,4 @@ jobs:
           git config --global user.name "GitHub Action"
           
           # publish rendered site to stat20.org
-          quarto publish gh-pages --profile partial-render --no-render
+          quarto publish gh-pages --profile partial-site --no-render
