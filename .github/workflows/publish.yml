@@ -25,7 +25,7 @@ jobs:
           # set -e
 
           # render partial site
-          quarto run partial-render.ts
+          quarto run qc-render.ts
              
           # render for real
           # quarto render --profile partial-site
