@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "2-eda/1-data-viz/notes.html",
+    "href": "2-eda/1-data-viz/notes.html",
+    "title": "Data Visualization",
+    "section": "",
+    "text": "Here are some notes on data visualization."
+  },
+  {
+    "objectID": "syllabus.html",
+    "href": "syllabus.html",
+    "title": "Syllabus",
+    "section": "",
+    "text": "Here is a syllabus"
+  },
+  {
+    "objectID": "1-probability/2-binomial/notes.html",
+    "href": "1-probability/2-binomial/notes.html",
+    "title": "The Binomial Distribution",
+    "section": "",
+    "text": "Here is some background on the binomial distribution.\nLet \\(X\\) is distributed as a binomial random variable with parameters \\(n\\) and \\(p\\) if\n\\[\nP(X = k) = \\binom{n}{k} p^k (1-p)^{n-k}\n\\]"
+  },
+  {
+    "objectID": "1-probability/1-random-variables/notes.html",
+    "href": "1-probability/1-random-variables/notes.html",
+    "title": "Random Variables",
+    "section": "",
+    "text": "Here is some background on Random Variables."
+  },
+  {
+    "objectID": "1-probability/3-conditional-probability/notes.html",
+    "href": "1-probability/3-conditional-probability/notes.html",
+    "title": "Conditional Probability",
+    "section": "",
+    "text": "Here is some background on conditional probability.\nBayes Rule allows you to invert a conditional probability. It states that\n\\[\nP(A|B) = \\frac{P(B|A) \\, P(A)}{P(B)}\n\\]"
+  },
+  {
+    "objectID": "1-probability/3-conditional-probability/slides.html#first-slide",
+    "href": "1-probability/3-conditional-probability/slides.html#first-slide",
+    "title": "Conditional Probability",
+    "section": "First Slide",
+    "text": "First Slide\nSomething"
+  },
+  {
+    "objectID": "1-probability/3-conditional-probability/slides.html#second-slide",
+    "href": "1-probability/3-conditional-probability/slides.html#second-slide",
+    "title": "Conditional Probability",
+    "section": "Second Slide",
+    "text": "Second Slide\nAnother thing."
+  },
+  {
+    "objectID": "slides.html",
+    "href": "slides.html",
+    "title": "Slides",
+    "section": "",
+    "text": "Slides\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Course 101",
+    "section": "",
+    "text": "Course 101\n\n\n\nNo matching items\n\n\n\nSchedule\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "1-probability/1-random-variables/slides.html#first-slide",
+    "href": "1-probability/1-random-variables/slides.html#first-slide",
+    "title": "Random Variables",
+    "section": "First Slide",
+    "text": "First Slide\nSomething"
+  },
+  {
+    "objectID": "1-probability/1-random-variables/slides.html#second-slide",
+    "href": "1-probability/1-random-variables/slides.html#second-slide",
+    "title": "Random Variables",
+    "section": "Second Slide",
+    "text": "Second Slide\nAnother thing."
+  },
+  {
+    "objectID": "1-probability/2-binomial/slides.html#first-slide",
+    "href": "1-probability/2-binomial/slides.html#first-slide",
+    "title": "The Binomial Distribution",
+    "section": "First Slide",
+    "text": "First Slide\nSomething"
+  },
+  {
+    "objectID": "1-probability/2-binomial/slides.html#second-slide",
+    "href": "1-probability/2-binomial/slides.html#second-slide",
+    "title": "The Binomial Distribution",
+    "section": "Second Slide",
+    "text": "Second Slide\nAnother thing."
+  },
+  {
+    "objectID": "office-hours.html",
+    "href": "office-hours.html",
+    "title": "Office Hours",
+    "section": "",
+    "text": "Office Hours\nYou can embed Google Calendars via an iframe, which allows for easy collaborative updating of the calendar without republishing the website."
+  },
+  {
+    "objectID": "problem-sets.html",
+    "href": "problem-sets.html",
+    "title": "Problem Sets",
+    "section": "",
+    "text": "Problem Sets\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "2-eda/1-data-viz/slides.html#first-slide",
+    "href": "2-eda/1-data-viz/slides.html#first-slide",
+    "title": "Data Visualization",
+    "section": "First Slide",
+    "text": "First Slide\nSomething."
+  },
+  {
+    "objectID": "2-eda/1-data-viz/slides.html#second-slide",
+    "href": "2-eda/1-data-viz/slides.html#second-slide",
+    "title": "Data Visualization",
+    "section": "Second Slide",
+    "text": "Second Slide\nAnother thing."
+  }
+]
